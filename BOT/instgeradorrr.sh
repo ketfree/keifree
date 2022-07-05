@@ -124,7 +124,6 @@ echo "$IP" > /usr/bin/vendor_code
   ### INTALAR VERCION DE SCRIPT
   v1=$(curl -sSL "https://www.dropbox.com/s/blxo0jifysvyrey/v-new.log")
   echo "$v1" > /etc/versin_script
-  }
 
 install_ini
 meu_ip
